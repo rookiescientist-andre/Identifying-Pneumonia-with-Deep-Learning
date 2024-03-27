@@ -59,6 +59,6 @@ Below is a list of the contents of this repository.
 ├── best_aug_model.h5
 ├── validation_data_preparation.ipynb                              
 ├── notebook.ipynb
-├── presentation.pdf                                
+├── presentation_slides.pdf                                
 ├── notebook.pdf                                
 └── github.pdf
