@@ -17,7 +17,7 @@ GitHub: @therookiescientist-andre
 
   The dataset comes from Kermany, Goldbaum et al.; and it is also available via Kaggle. The dataset is pre-split into training, testing, and validation directories, which makes loading and manipulating the data simple for my study. The data is also prepared in a way that makes it perfect for deep learning analysis (i.e. structured data with dimensions that don't require heavy processing). There are 5,216 images in the training directory (split into "NORMAL" and "PNEUMONIA" sub-directories), as well as 624 testing images and 16 validation images, both of which are split similarly to the training directory. I increased my validation dataset by splitting the testing data in order to train the model more effectively - this would have been tough with only 16 images. 
   
-  NOTE: Run the 'validation_data_preparation.ipynb' notebook prior to running the main notebook in order to reproduce my analysis.
+  **NOTE**: Run the 'validation_data_preparation.ipynb' notebook prior to running the main notebook in order to reproduce my analysis.
   
 !["NORMAL" patient](images/x_ray_images.png)                                        !["PNEUMONIA" patient](images/x_ray_images2.png)
 
